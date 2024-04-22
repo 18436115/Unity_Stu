@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 2252449995
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: daf6a70a00a5886a07d90fb384ea7a27
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 78e2906ddc72be2fe87758d548c54ccb
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GameRes/Scene/StartScene.unity
+Dependencies: []

@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 3625141131
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: gameres/role/player.assetbundle
+      Dependencies: {}
+    Info_1:
+      Name: gameres/scene/startscene.unity3d
+      Dependencies: {}
+    Info_2:
+      Name: gameres/scene/mainmenuscene.unity3d
+      Dependencies:
+        Dependency_0: gameres/ui/uiroot.assetbundle
+    Info_3:
+      Name: gameres/ui/uimainview.assetbundle
+      Dependencies: {}
+    Info_4:
+      Name: gameres/ui/uiroot.assetbundle
+      Dependencies: {}
+    Info_5:
+      Name: gameres/ui/uistartview.assetbundle
+      Dependencies: {}
+    Info_6:
+      Name: gameres/ui/uiloginview.assetbundle
+      Dependencies: {}
+    Info_7:
+      Name: gameres/ui/uiselectview.assetbundle
+      Dependencies: {}
